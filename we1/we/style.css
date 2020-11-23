@@ -1,0 +1,98 @@
+h5{
+    color: white;
+}
+
+.navgr {
+    display: flex;
+    background-color: #381C53;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    margin-left: -1.9%;
+    margin-right: -1.9%;
+    margin-top: -5px;
+}
+
+.title-while{
+    color: white;
+    font-size: medium;
+}
+
+p{
+    color: white;
+}
+
+.khung{
+    border: 5px dashed #987DA9;
+    background-color: #987DA9;
+}
+
+.Lienhe{
+    margin-left: 75%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
+.btn-link{
+    margin-left: 60%;
+    margin-top: 70%;
+    color:white;
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4px;
+    justify-content: space-between;
+}
+
+.HH-slip{
+    margin-left: 55px;
+    margin-right: 45px;
+    margin-top: 80px;
+    margin-bottom: 130px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.ChucmungHH{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 70%;
+}
+
+.thisinh{
+    background-color:#E9E9EA;
+}
+
+
+.all-thisinh{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.all-bangiamkhao{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.all-tinnoibat{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.khung-4-anh{
+    margin-left: 62px;
+    margin-right: 62px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-text{
+    color:white;
+    font-size: medium;
+}
+
